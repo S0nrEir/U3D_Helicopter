@@ -1,0 +1,13 @@
+2017.1.0f3:3.3.0.0
+Android
+D:/unity_2017/Editor/Data/Managed/UnityEditor.dll
+D:/unity_2017/Editor/Data/Managed/UnityEngine.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/unity_2017/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+D:/unity_2017/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/unity_2017/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
